@@ -805,8 +805,8 @@ url("./fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65") format("wof
 .bi-handbag::before { content: "\f409"; }
 .bi-hash::before { content: "\f40a"; }
 .bi-hdd-fill::before { content: "\f40b"; }
-.bi-hdd-network-fill::before { content: "\f40c"; }
-.bi-hdd-network::before { content: "\f40d"; }
+.bi-hdd-netproyectos-fill::before { content: "\f40c"; }
+.bi-hdd-netproyectos::before { content: "\f40d"; }
 .bi-hdd-rack-fill::before { content: "\f40e"; }
 .bi-hdd-rack::before { content: "\f40f"; }
 .bi-hdd-stack-fill::before { content: "\f410"; }
@@ -1427,7 +1427,7 @@ url("./fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65") format("wof
 .bi-person-video::before { content: "\f677"; }
 .bi-person-video2::before { content: "\f678"; }
 .bi-person-video3::before { content: "\f679"; }
-.bi-person-workspace::before { content: "\f67a"; }
+.bi-person-proyectosspace::before { content: "\f67a"; }
 .bi-radioactive::before { content: "\f67b"; }
 .bi-webcam-fill::before { content: "\f67c"; }
 .bi-webcam::before { content: "\f67d"; }
@@ -2021,7 +2021,7 @@ url("./fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65") format("wof
 .bi-nvme-fill::before { content: "\f803"; }
 .bi-nvme::before { content: "\f80c"; }
 .bi-opencollective::before { content: "\f80d"; }
-.bi-pci-card-network::before { content: "\f8cd"; }
+.bi-pci-card-netproyectos::before { content: "\f8cd"; }
 .bi-pci-card-sound::before { content: "\f8ce"; }
 .bi-radar::before { content: "\f8cf"; }
 .bi-send-arrow-down-fill::before { content: "\f8d0"; }

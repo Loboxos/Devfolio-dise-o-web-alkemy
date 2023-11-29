@@ -55,7 +55,7 @@ a:hover {
 
 .box-shadow,
 .card-blog,
-.work-box,
+.proyectos-box,
 .service-box,
 .paralax-mf {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
@@ -861,7 +861,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# education
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
@@ -939,50 +939,50 @@ a:hover {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-.work-box {
+.proyectos-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
 }
 
-.work-box:hover img {
+.proyectos-box:hover img {
   transform: scale(1.3);
 }
 
-.work-img {
+.proyectos-img {
   display: block;
   overflow: hidden;
 }
 
-.work-img img {
+.proyectos-img img {
   transition: all 1s;
 }
 
-.work-content {
+.proyectos-content {
   padding: 2rem 3% 1rem 4%;
 }
 
-.work-content .w-more {
+.proyectos-content .w-more {
   color: #4e4e4e;
   font-size: 0.8rem;
 }
 
-.work-content .w-more .w-ctegory {
+.proyectos-content .w-more .w-ctegory {
   color: #0078ff;
 }
 
-.work-content .w-like {
+.proyectos-content .w-like {
   font-size: 2.5rem;
   color: #0078ff;
   float: right;
 }
 
-.work-content .w-like a {
+.proyectos-content .w-like a {
   color: #0078ff;
 }
 
-.work-content .w-like .num-like {
+.proyectos-content .w-like .num-like {
   font-size: 0.7rem;
 }
 
